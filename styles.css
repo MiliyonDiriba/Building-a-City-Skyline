@@ -260,7 +260,6 @@ border-left:8vw solid var(--building-color1);
 .fb6 {
   width: 9%;
   height: 38%;
-  background-color: var(--building-color3);
     background: repeating-linear-gradient(
     90deg,
     var(--building-color3),
